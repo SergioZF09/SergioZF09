@@ -1,16 +1,13 @@
-## Hi there 👋
+### Hola 👋, Mi nombre es Sergio Zuñiga Fraga
+#### Desarrollador Web Back-End
+Dedicado y apasionado en el desarrollo web en la parte BackEnd. Tengo conocimientos de lenguajes de programación como: Java, Python, SQL y PHP, y frameworks como: Spring Boot y Django. También cuento con conocimientos en la parte FrontEnd. De lenguajes para programar como: HTML, CSS y JavaScript (jQuery), y frameworks como: Bootstrap.
 
-<!--
-**SergioZF09/SergioZF09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cuento con conocimiento en manejo de gestores de bases de datos como: MySQL, phpMyAdmin y PostgreSQL, y conocimiento para gestionar versiones de proyectos como: Git y GitHub.
 
-Here are some ideas to get you started:
+Comprometido con mis principios y valores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades: Java / Spring Framework / Spring Boot / JS / jQuery / HTML / CSS / Bootstrap / SQL / MySQL / PostgreSQL / PHP / Git /
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SergioZF09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sergio-zuniga-fraga//)  
