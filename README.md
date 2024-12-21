@@ -6,8 +6,6 @@ Cuento con conocimiento en manejo de gestores de bases de datos como: MySQL, php
 
 Comprometido con mis principios y valores.
 
-Habilidades: Java / Spring Framework / Spring Boot / JS / jQuery / HTML / CSS / Bootstrap / SQL / MySQL / PostgreSQL / PHP / Git /
-
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SergioZF09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sergio-zuniga-fraga//)  
