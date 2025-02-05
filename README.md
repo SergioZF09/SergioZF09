@@ -1,11 +1,53 @@
-### Hola 👋, Mi nombre es Sergio Zuñiga Fraga
-#### Desarrollador Web Back-End
-Dedicado y apasionado en el desarrollo web en la parte BackEnd. Tengo conocimientos de lenguajes de programación como: Java, Python, SQL y PHP, y frameworks como: Spring Boot y Django. También cuento con conocimientos en la parte FrontEnd. De lenguajes para programar como: HTML, CSS y JavaScript (jQuery), y frameworks como: Bootstrap.
+<h1 align="center">Hola 👋, Mi nombre es Sergio Zuñiga Fraga</h1>
 
-Cuento con conocimiento en manejo de gestores de bases de datos como: MySQL, phpMyAdmin y PostgreSQL, y conocimiento para gestionar versiones de proyectos como: Git y GitHub.
+<h2>Sobre mí</h2>
 
-Comprometido con mis principios y valores.
+Licenciado en Informática
 
+Desarrollador Junior en AlumniONE en Oracle Next Education (ONE)
 
+Dedicado y apasionado en desarrollar aplicaciones Back-End y Front-End. Organizado con
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SergioZF09)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/sergio-zuniga-fraga//)  
+<h2>Tecnologías </h2>
+
+<h3>Desarrollador Front-End</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,jquery" />
+  </a>
+</p>
+
+<h3>Desarrollador Back-End</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,maven,hibernate,python,django,php,mysql,postgres" />
+  </a>
+</p>
+
+<h3>Herramientas de desarrollo</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,gitlab,github,postman,regex" />
+  </a>
+</p>
+
+<h3>Programas para diseñar</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+</p>
+
+<h3>Editores de código</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode" />
+  </a>
+</p>
+
+<h2>Contáctame</h2>
+<p>
+  <a href="https://www.linkedin.com/in/sergio-zuniga-fraga/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  
+  <a href="mailto:sergiozfraga@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Electrónico"/></a>
+</p>
