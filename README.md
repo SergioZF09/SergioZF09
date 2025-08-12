@@ -4,13 +4,13 @@
 
 Licenciado en Informática
 
-Desarrollador Junior en AlumniONE en Oracle Next Education (ONE)
+Desarrollador Junior en Oracle Next Education (ONE)
 
 Dedicado y apasionado en desarrollar aplicaciones Back-End y Front-End.
 
 Estoy continuamente aprendiendo tecnologías relacionadas tanto Front-End como Back-End para, en un futuro, convertirme en un Desarrollador Full-Stack.
 
-Mis roles: Desarrollador Front-End y Desarrollador Back-End.
+Mis roles: Principalmente Desarrollador Backend y estoy aprendiendo frameworks como React para Desarrollador Frontend.
 
 <h2>Tecnologías </h2>
 
